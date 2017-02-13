@@ -1,0 +1,12 @@
+<?php
+
+namespace TempNamespace;
+
+use Core\Http\Controllers\Controller;
+use Illuminate\Foundation\Bus\DispatchesJobs;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+
+class TempClass extends Controller
+{
+
+}

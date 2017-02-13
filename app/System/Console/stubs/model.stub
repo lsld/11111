@@ -1,0 +1,10 @@
+<?php
+
+namespace TempNamespace;
+
+use Illuminate\Database\Eloquent\Model;
+
+class TempClass extends Model
+{
+    //
+}
